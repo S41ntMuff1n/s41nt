@@ -1,0 +1,19 @@
+{
+  label = "Pisa",
+  shapes = {
+    { 4,0,2,10,2,14,texture = "wool_colored_red", tint = 0xff3366 },
+    { 4,2,6,5,16,10,texture = "wool_colored_red", tint = 0xff3366 },
+    { 5,2,5,9,16,6,texture = "wool_colored_red", tint = 0xff3366 },
+    { 5,2,6,6,15,10,texture = "glass", tint = 0x99ccff },
+    { 5,2,10,9,16,11,texture = "wool_colored_red", tint = 0xff3366 },
+    { 6,2,3,9,3,9,texture = "wool_colored_red", tint = 0xff3366 },
+    { 6,2,9,9,15,10,texture = "glass", tint = 0x99ccff },
+    { 6,2,11,9,3,13,texture = "wool_colored_red", tint = 0xff3366 },
+    { 9,2,5,10,9,11,texture = "wool_colored_red", tint = 0xff3366 },
+    { 6,3,6,9,15,10,texture = "glass", tint = 0x99ccff },
+    { 7,3,4,8,4,6,texture = "wool_colored_red", tint = 0xff3366 },
+    { 7,3,11,8,4,12,texture = "wool_colored_red", tint = 0xff3366 },
+    { 9,9,6,10,16,10,texture = "wool_colored_red", tint = 0xff3366 },
+    { 5,15,6,9,16,11,texture = "wool_colored_red", tint = 0xff3366 },
+  }
+}
